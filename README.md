@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/candy-pine--icon--rounded.webp" width="150" style="border-radius: 50%" />
+    <img src="assets/candy-pine--icon--rounded.webp" width="150" />
     <h2 align="center">Candý Pine for VSCode</h2>
 </p>
 
