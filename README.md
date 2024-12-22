@@ -3,7 +3,7 @@
     <h2 align="center">Candý Pine for VSCode</h2>
 </p>
 
-<p align="center">Welcome to Candý Pine, a soft, harmonious and candy-inspired dark theme, based off of the beautiful <a href="https://github.com/rose-pine/rose-pine-theme">Roseè Pine</a>.</p>
+<p align="center">Welcome to Candý Pine, a soft, harmonious and candy-inspired dark theme, based off of the beautiful <a href="https://github.com/rose-pine/rose-pine-theme">Rosè Pine</a>.</p>
 
 ## Usage
 
