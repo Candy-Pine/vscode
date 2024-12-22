@@ -44,15 +44,17 @@
     "soft"
   ],
   "scripts": {
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "package": "vsce package",
+    "publish": "npm run package && vsce publish && npm publish"
   },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/candy-pine/vscode/issues"
   },
   "homepage": "https://github.com/candy-pine/vscode#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "prettier": "^3.4.2"
-  },
-  "devDependencies": {}
+  }
 }
