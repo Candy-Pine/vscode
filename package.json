@@ -3,7 +3,7 @@
   "publisher": "yuschick",
   "displayName": "Candý Pine",
   "description": "Candý Pine is a soft, harmonious and candy-inspired dark theme, based off of the beautiful Rosé Pine.",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "engines": {
     "vscode": "^1.57.0"
   },
@@ -13,7 +13,7 @@
   "author": "Daniel Yuschick <daniel.yuschick@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yuschick/candy-pine.git"
+    "url": "https://github.com/candy-pine/vscode.git"
   },
   "galleryBanner": {
 		"color": "#161421",
@@ -48,9 +48,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yuschick/Candy-Pine/issues"
+    "url": "https://github.com/candy-pine/vscode/issues"
   },
-  "homepage": "https://github.com/yuschick/Candy-Pine#readme",
+  "homepage": "https://github.com/candy-pine/vscode#readme",
   "dependencies": {
     "prettier": "^3.4.2"
   }
