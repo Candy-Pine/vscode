@@ -13,7 +13,6 @@
 
 ## Gallery
 
-> [!NOTE]
 > Font used is [TT Commons Pro](https://typetype.org/fonts/tt-commons-pro/)
 
 **Candý Pine**
