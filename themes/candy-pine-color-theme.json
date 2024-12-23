@@ -1,5 +1,6 @@
 {
   "name": "Candy Pine",
+  "type": "dark",
   "colors": {
     "activityBar.activeBorder": "#e4e1f0",
     "activityBar.background": "#161421",
